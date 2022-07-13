@@ -13,7 +13,7 @@ const Register = () => {
                 <button style={{letterSpacing: "1px"}} className="block w-[50%] m-auto text-xl py-4 mt-8 border border-black bg-black text-white hover:bg-white hover:text-black ease-in duration-150">Create account</button>
 
                 <Link href="/register">
-                    <p className="text-xl text-center mt-4">Don't have an account? <span className="text-blue-700 cursor-pointer">login</span></p>
+                    <p className="text-xl text-center mt-4">Don&apos;t have an account? <span className="text-blue-700 cursor-pointer">login</span></p>
                 </Link>
                 
             </div>
