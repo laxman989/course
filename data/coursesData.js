@@ -1,0 +1,58 @@
+const coursesData = [
+    {
+        id: 1,
+        name: "Programming in Python",
+        price: 2699,
+        type: "Beginner",
+        lectures: 54,
+        duration: 23,
+        image: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHl0aG9uJTIwcHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: 2,
+        name: "React JS",
+        price: 3269,
+        type: "Intermediate",
+        lectures: 32,
+        duration: 19,
+        image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhY3Rqc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: 3,
+        name: "JavaScript",
+        price: 4599,
+        type: "Intermediate",
+        lectures: 59,
+        duration: 27,
+        image: "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: 4,
+        name: "CSS",
+        price: 1399,
+        type: "Advanced",
+        lectures: 23,
+        duration: 13,
+        image: "https://images.unsplash.com/photo-1610986603166-f78428624e76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y3NzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: 5,
+        name: "HTML",
+        price: 1099,
+        type: "Beginner",
+        lectures: 34,
+        duration: 19,
+        image: "https://images.unsplash.com/photo-1610986603166-f78428624e76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y3NzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: 6,
+        name: "JavaScript - Advanced",
+        price: 4599,
+        type: "Advanced",
+        lectures: 68,
+        duration: 31,
+        image: "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    },
+]
+
+export default coursesData;
